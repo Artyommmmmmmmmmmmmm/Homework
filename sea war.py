@@ -505,14 +505,6 @@ bot.bot_field_1_2_4()
 Z.field_1_2_4()
 
 
-# print('  1 2 3 4 5 6', ' ', ' ', '  1 2 3 4 5 6',)
-# print('1', *Z.way1[1:7], ' ', ' ', '1', *empty.way1[1:7])
-# print('2', *Z.way2[1:7], ' ', ' ', '2', *empty.way2[1:7])
-# print('3', *Z.way3[1:7], ' ', ' ', '3', *empty.way3[1:7])
-# print('4', *Z.way4[1:7], ' ', ' ', '4', *empty.way4[1:7])
-# print('5', *Z.way5[1:7], ' ', ' ', '5', *empty.way5[1:7])
-# print('6', *Z.way6[1:7], ' ', ' ', '6', *empty.way6[1:7])
-
 
 game = True
 while game:
